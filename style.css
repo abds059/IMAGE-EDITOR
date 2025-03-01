@@ -1,0 +1,71 @@
+:root{
+    --primary-color: lightblue;
+    --secondary-color: darkblue;
+    --text-color: black; 
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: var(--primary-color);
+    margin: 12px;
+}
+
+
+h1{
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+
+.picture{
+    border: 2px solid black;
+    border-radius: 12px;
+    margin: 12px;
+    padding: 100px;
+    width: 50vw;
+    height: 50vh;
+}
+
+.buttons{
+    border: 2px solid gray;
+    margin: 10px;
+    display: grid;
+    justify-content: space-between;
+}
+
+.btn{
+    margin: 5px;
+    padding: 12px;
+    border: 2px solid gray;
+    border-radius: 8px;
+    cursor: pointer;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#Upload_img{
+    display: none;
+}
+
+.download_btn{
+    text-align: center;
+}
+
+.dn{
+    width: 50vw;
+    margin-left: 5px;
+    margin-right: 90px;   
+}
+
+.dn:hover{
+    background-color: var(--secondary-color);
+    color: white;
+}
