@@ -1,6 +1,6 @@
 ﻿### Image Editor with Filters & Download Feature**
 
-#### **📌 Overview**
+#### **Overview**
 This project is a simple **image editor** built using **HTML, CSS, and JavaScript**, allowing users to:  
 ✔ **Upload an image** from local storage  
 ✔ **Apply filters** (Brightness, Saturation, Grayscale, Contrast, Blur)  
@@ -9,16 +9,16 @@ This project is a simple **image editor** built using **HTML, CSS, and JavaScrip
 
 ---
 
-### **🛠 Features**
-✅ **Upload Image** – Select an image from your local storage.  
-✅ **Adjust Filters** – Modify Brightness, Saturation, Grayscale, Contrast, and Blur using sliders.  
-✅ **Toggle Filter Controls** – Click buttons to show/hide corresponding sliders.  
-✅ **Reset Image** – Restore the image to its original state.  
-✅ **Download Edited Image** – Save your modified image as a PNG file.  
+### **Features**
+  **Upload Image** – Select an image from your local storage.  
+   **Adjust Filters** – Modify Brightness, Saturation, Grayscale, Contrast, and Blur using sliders.  
+   **Toggle Filter Controls** – Click buttons to show/hide corresponding sliders.  
+   **Reset Image** – Restore the image to its original state.  
+   **Download Edited Image** – Save your modified image as a PNG file.  
 
 ---
 
-### **📂 File Structure**
+### **File Structure**
 ```
 /image-editor
 │── index.html        # Main HTML structure
@@ -29,11 +29,11 @@ This project is a simple **image editor** built using **HTML, CSS, and JavaScrip
 
 ---
 
-### **📜 How to Use**
-#### **1️⃣ Upload an Image**
+### **How to Use**
+#### **1. Upload an Image**
 Click the **"Upload"** button to select an image from your local files.  
 
-#### **2️⃣ Apply Filters**
+#### **2. Apply Filters**
 Use the following buttons & sliders to adjust the image:  
 - **Brightness** – Adjust the light level.  
 - **Saturation** – Enhance or reduce color intensity.  
@@ -41,23 +41,23 @@ Use the following buttons & sliders to adjust the image:
 - **Contrast** – Increase or decrease contrast.  
 - **Blur** – Add a blur effect.  
 
-#### **3️⃣ Reset to Original**
+#### **3. Reset to Original**
 Click the **"Reset"** button to remove all filters and restore the image.  
 
-#### **4️⃣ Download the Image**
+#### **4. Download the Image**
 Click the **"Download"** button to save your edited image as a PNG file.  
 
 ---
 
-### **🎨 Technologies Used**
+### **Technologies Used**
 - **HTML** – Structure of the web page  
 - **CSS** – Styling for layout & filter controls  
 - **JavaScript** – Functionality for filters, upload, reset, and download  
 
 ---
 
-### **🚀 Future Enhancements**
-🔹 Add **Hue Rotation** and **Sepia filters**  
-🔹 Allow **cropping & rotating images**  
-🔹 Implement **drag-and-drop upload** feature  
+### **Future Enhancements**
+   Add **Hue Rotation** and **Sepia filters**  
+   Allow **cropping & rotating images**  
+   Implement **drag-and-drop upload** feature  
 
