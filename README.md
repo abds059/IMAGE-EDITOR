@@ -2,19 +2,19 @@
 
 #### **Overview**
 This project is a simple **image editor** built using **HTML, CSS, and JavaScript**, allowing users to:  
-  **Upload an image** from local storage  
-  **Apply filters** (Brightness, Saturation, Grayscale, Contrast, Blur)  
-  **Download the edited image**  
-  **Reset the image** to its original state  
+- **Upload an image** from local storage  
+- **Apply filters** (Brightness, Saturation, Grayscale, Contrast, Blur)  
+- **Download the edited image**  
+- **Reset the image** to its original state  
 
 ---
 
 ### **Features**
-   **Upload Image** – Select an image from your local storage.  
-   **Adjust Filters** – Modify Brightness, Saturation, Grayscale, Contrast, and Blur using sliders.  
-   **Toggle Filter Controls** – Click buttons to show/hide corresponding sliders.  
-   **Reset Image** – Restore the image to its original state.  
-   **Download Edited Image** – Save your modified image as a PNG file.  
+ - **Upload Image** – Select an image from your local storage.  
+ - **Adjust Filters** – Modify Brightness, Saturation, Grayscale, Contrast, and Blur using sliders.  
+ - **Toggle Filter Controls** – Click buttons to show/hide corresponding sliders.  
+ - **Reset Image** – Restore the image to its original state.  
+ - **Download Edited Image** – Save your modified image as a PNG file.  
 
 ---
 
