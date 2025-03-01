@@ -56,7 +56,7 @@ Click the **"Download"** button to save your edited image as a PNG file.
 ---
 
 ### **Future Enhancements**
-   Add **Hue Rotation** and **Sepia filters**  
-   Allow **cropping & rotating images**  
-   Implement **drag-and-drop upload** feature  
+- Add **Hue Rotation** and **Sepia filters**  
+- Allow **cropping & rotating images**  
+- Implement **drag-and-drop upload** feature  
 
