@@ -1,4 +1,4 @@
-﻿### Image Editor with Filters & Download Feature**
+﻿### Image Editor with Filters & Download Feature
 
 #### **Overview**
 This project is a simple **image editor** built using **HTML, CSS, and JavaScript**, allowing users to:  
